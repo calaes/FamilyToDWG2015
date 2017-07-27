@@ -1,0 +1,5 @@
+c:\users\calaes\documents\visual studio 2017\Projects\FamilyToDWG2015\FamilyToDWG2015\bin\Debug\FamilyToDWG2015.dll
+c:\users\calaes\documents\visual studio 2017\Projects\FamilyToDWG2015\FamilyToDWG2015\bin\Debug\FamilyToDWG2015.pdb
+c:\users\calaes\documents\visual studio 2017\Projects\FamilyToDWG2015\FamilyToDWG2015\obj\Debug\FamilyToDWG2015.csprojResolveAssemblyReference.cache
+c:\users\calaes\documents\visual studio 2017\Projects\FamilyToDWG2015\FamilyToDWG2015\obj\Debug\FamilyToDWG2015.dll
+c:\users\calaes\documents\visual studio 2017\Projects\FamilyToDWG2015\FamilyToDWG2015\obj\Debug\FamilyToDWG2015.pdb
